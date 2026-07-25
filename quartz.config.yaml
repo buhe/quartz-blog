@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: blog.buhe.dev
+  baseUrl: https://quartz-blog-blush.vercel.app
   ignorePatterns:
     - private
     - templates
