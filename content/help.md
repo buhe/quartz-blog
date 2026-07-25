@@ -1,4 +1,6 @@
 ---
-title: Help
+title: Welcome to Quartz
 ---
-[简体中文](/help/zh-CN/)
+
+This is a blank Quartz installation.
+See the [documentation](https://quartz.jzhao.xyz) for how to get started.
